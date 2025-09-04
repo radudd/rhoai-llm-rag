@@ -17,5 +17,6 @@ After installing OpenShift AI and Nvidia Operator, makes sure that the GPUs can 
 
 ## Chat with LLM
 
+* Import custom workbench: quay.io/rh-aiservices-bu/rhoai-lab-insurance-claim-workbench:3.0.4 
 * Use the `workbenches/chat-with-llm`
 
